@@ -11,14 +11,14 @@
     transition: 0.3s;
 }
 
+.container {
+    margin-top: 30px;
+}
+
 .navbar-custom {
     color: purple;
     background-color: burlywood;
 }
-
-/**.row {
-    
-}**/
 
 .sydney {
 	background-image: url("sydney-darlingHarbour.jpg");
