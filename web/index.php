@@ -28,7 +28,7 @@
 
   </nav>
 
-  <div class="container">
+  <div class="container-lg">
     <div class="row">
 
       <div class="col-sm-4">
@@ -42,7 +42,7 @@
         <p>I'm from beautiful Sydney Australia, and will soon be adding my projects.</p>
         <br>
       </div>
-      
+
     </div>
   </div>
 
