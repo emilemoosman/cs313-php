@@ -20,7 +20,11 @@
 
 </head>
 <body>
-  <h1>Welcome to my Home Page</h1>
+  <div class="jumbotron text-center" style="margin-bottom:0">
+    <h1>Welcome to my Home Page</h1> 
+  </div>
+
+  <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
 
 </body>
 
