@@ -1,6 +1,8 @@
 
 .jumbotron {
     text-align: center;
+    background-color: orange;
+    color: maroon;
     margin-bottom: 0;
     transition: 0.3s;
 }
