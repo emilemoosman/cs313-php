@@ -31,9 +31,8 @@
   <div class="container" style="margin-top:30px">
   <div class="row">
     <div class="col-sm-4">
-      <h2>About Me</h2>
-      <h5>Photo of Sydney:</h5>
-      <div class="sydney">Fake Image</div>
+      <h2>Beautiful Sydney:</h2>
+      <div class="sydney"></div>
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
       <h3>Some Links</h3>
       <p>Lorem ipsum dolor sit ame.</p>
