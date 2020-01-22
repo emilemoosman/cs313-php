@@ -2,6 +2,7 @@
 .jumbotron {
     text-align: center;
     margin-bottom: 0;
+    transition: 0.3s;
 }
 
 .jumbotron:hover {
