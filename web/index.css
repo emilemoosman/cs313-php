@@ -1,4 +1,18 @@
 
+.jumbotron {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.jumbotron:hover {
+    background-color: green;
+    color: blue;
+}
+
+.navbar {
+    background-color: dark;
+}
+
 .sydney {
 	background-image: url("sydney-darlingHarbour.jpg");
 	height:100%;
@@ -7,3 +21,4 @@
 	background-repeat: no-repeat;
 	background-size: cover
 }
+

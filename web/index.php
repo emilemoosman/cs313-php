@@ -20,11 +20,11 @@
 
 </head>
 <body>
-  <div class="jumbotron text-center" style="margin-bottom:0">
+  <div class="jumbotron">
     <h1>Emile Moosman Home Page</h1> 
   </div>
 
-  <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <nav class="navbar">
 
   </nav>
 
@@ -33,7 +33,7 @@
     <div class="col-sm-4">
       <h2>Beautiful Sydney:</h2>
       <div class="sydney"></div>
-      <p>picturesque Darling Harbour.</p>
+      <p>Picturesque Darling Harbour.</p>
       <h3>Some Links</h3>
       
     </div>
