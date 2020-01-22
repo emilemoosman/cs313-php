@@ -52,14 +52,16 @@
   </div>
 </div>
 
-<footer>
-    <?php
-      date_default_timezone_set("Australia/Sydney");
-      echo "Today is " . date("l") . ". ";
-      echo "The date is " . date("m-d-Y") . ". ";
-      echo "The time is " . date("h:i:sa") . ". ";
-    ?>
-  </footer>
+<div class="jumbotron">
+  <footer>
+      <?php
+        date_default_timezone_set("Australia/Sydney");
+        echo "Today is " . date("l") . ". ";
+        echo "The date is " . date("m-d-Y") . ". ";
+        echo "The time is " . date("h:i:sa") . ". ";
+      ?>
+    </footer>
+  </div>
 
 </body>
 
