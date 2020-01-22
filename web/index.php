@@ -24,7 +24,7 @@
     <h1>Emile Moosman Home Page</h1> 
   </div>
 
-  <nav class="navbar navbar-expand-sm navbar-custom">
+  <nav class="navbar navbar-inverse navbar-fixed-top navbar-custom">
 
   </nav>
 
