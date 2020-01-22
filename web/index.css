@@ -2,7 +2,7 @@
 .jumbotron {
     text-align: center;
     background-color: orange;
-    color: maroon;
+    color: blue;
     margin-bottom: 0;
     transition: 0.3s;
 }
@@ -19,7 +19,7 @@
 
 .navbar-custom {
     color: purple;
-    background-color: burlywood;
+    background-color: rgb(16, 119, 62);
 }
 
 .sydney {
