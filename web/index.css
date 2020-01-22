@@ -13,6 +13,7 @@
 
 .container {
     margin-top: 50px;
+    height: 75%;
 }
 
 .navbar-custom {
@@ -22,10 +23,10 @@
 
 .sydney {
 	background-image: url("sydney-darlingHarbour.jpg");
-	height:50%;
+	height: 50%;
 
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: cover
+	background-size: cover;
 }
 
