@@ -15,12 +15,12 @@
     background-color: dark;
 }
 
+.row {
+    block-size: auto;
+}
+
 .sydney {
 	background-image: url("sydney-darlingHarbour.jpg");
-	height:100%;
 
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
 }
 
