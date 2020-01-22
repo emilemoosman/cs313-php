@@ -6,7 +6,6 @@
     color: rgb(255, 60, 0);
     margin-bottom: 0;
     transition: 0.3s;
-    height: 15%;
 }
 
 .jumbotron:hover {
@@ -18,7 +17,7 @@
 .container {
     margin-top: 30px;
     margin-bottom: 30px;
-    height: 70%;
+    height: 150%;
 }
 
 .navbar-custom {
