@@ -20,6 +20,10 @@
     height: 400px;
 }
 
+.row {
+    height: 50%;
+}
+
 .navbar-custom {
     color: purple;
     background-color: rgb(16, 119, 62);
