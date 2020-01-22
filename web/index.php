@@ -43,10 +43,6 @@
         <br>
       </div>
 
-      <div class="col-sm-12">
-      <h2>Beautiful Sydney:</h2>
-      </div>
-
     </div>
   </div>
 

@@ -14,11 +14,6 @@
     transition: 0.3s;
 }
 
-.container {
-    margin-top: 30px;
-    margin-bottom: 30px;
-}
-
 .navbar-custom {
     color: purple;
     background-color: rgb(16, 119, 62);
