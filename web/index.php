@@ -44,7 +44,7 @@
       </div>
 
       <div class="col-sm-12">
-        ll
+      <h2>Beautiful Sydney:</h2>
       </div>
 
     </div>
