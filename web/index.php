@@ -19,20 +19,20 @@
 
 
 </head>
-<body>
+<body class="sydney">
   <div class="jumbotron text-center" style="margin-bottom:0">
     <h1>Emile Moosman Home Page</h1> 
   </div>
 
   <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-    
+
   </nav>
 
   <div class="container" style="margin-top:30px">
   <div class="row">
     <div class="col-sm-4">
       <h2>About Me</h2>
-      <h5>Photo of me:</h5>
+      <h5>Photo of Sydney:</h5>
       <div class="fakeimg">Fake Image</div>
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
       <h3>Some Links</h3>
