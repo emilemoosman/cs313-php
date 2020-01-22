@@ -7,7 +7,7 @@
 .jumbotron:hover {
     background-color: rgb(101, 55, 207);
     color: rgb(111, 233, 117);
-    transition: 0.5s;
+    transition: 0.3s;
 }
 
 .navbar {
@@ -20,6 +20,6 @@
 
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: cover
+	background-size: cover;
 }
 
