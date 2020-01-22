@@ -16,11 +16,12 @@
 }
 
 .row {
-    block-size: auto;
+    
 }
 
 .sydney {
 	background-image: url("sydney-darlingHarbour.jpg");
-
+	
+	background-size: cover;
 }
 
