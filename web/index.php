@@ -31,13 +31,13 @@
   <div class="container">
     <div class="row">
 
-      <div class="col-sm-4">
+      <div class="col-lg-4">
         <h2>Beautiful Sydney:</h2>
         <div class="sydney"></div>
         <p>Picturesque Darling Harbour.</p>        
       </div>
 
-      <div class="col-sm-8">
+      <div class="col-lg-8">
         <h2>About Me:</h2>
         <p>I'm from beautiful Sydney Australia, and will soon be adding my projects.</p>
         <br>
