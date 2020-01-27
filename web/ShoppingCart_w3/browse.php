@@ -6,6 +6,11 @@
     <link rel="stylesheet" href="shoppingCart.css">
 </head>
 <body>
-    
+    <div class="container">
+        <h1>Shopping Cart</h1>
+        
+
+
+    </div>
 </body>
 </html>
